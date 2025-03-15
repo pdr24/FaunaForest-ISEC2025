@@ -9,7 +9,7 @@ FaunaForest was created by Pragathi Durga Rajarajan and Adrian Cisneros as part 
 FaunaForest aims to teach middle school students (grades 6-8) about decision trees via 3 levels of interactive decision tree puzzles. Each puzzle involves completing a decision tree that has blank mystery nodes in such a way that it will correctly classify various animals.
 
 ## FaunaForest Resources 
-FaunaForest live link: https://engaging-computing.github.io/FaunaForest/
+FaunaForest live link (works best on computers): https://engaging-computing.github.io/FaunaForest/
 
 FaunaForest github repository: https://github.com/engaging-computing/FaunaForest
 
