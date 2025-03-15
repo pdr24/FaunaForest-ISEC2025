@@ -13,4 +13,4 @@ FaunaForest live link: https://engaging-computing.github.io/FaunaForest/
 
 FaunaForest github repository: https://github.com/engaging-computing/FaunaForest
 
-FaunaForest IEEE ISEC 2025 Presentation Slides: 
+FaunaForest IEEE ISEC 2025 Presentation Slides: https://github.com/pdr24/FaunaForest-ISEC2025/blob/main/FaunaForest%20ISEC%20Presentation%20PDF.pdf
